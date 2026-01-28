@@ -8,4 +8,4 @@ Modern Portfolio Theory (MPT) is this concept given mathematical rigor. It allow
 
 In this project, we will take 10 relatively uncorrelated stocks and simulate 10,000 random weightings to find the efficient frontier (the point where you cannot achieve higher return without taking on more risk). In other words, we are answering the following question:
 
-"Given these 10 stocks, how much of each should I hold to get the maximum possible return for my comfort level?"
+*"Given these 10 stocks, how much of each should I hold to get the maximum possible return for my comfort level?"*
