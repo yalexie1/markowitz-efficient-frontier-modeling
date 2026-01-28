@@ -37,7 +37,7 @@ $$\sigma_p = \sqrt{w^T \cdot \Sigma \cdot w}$$
 **3. Sharpe Ratio**
 The objective function to maximize:
 $$\text{Sharpe} = \frac{R_p - R_f}{\sigma_p}$$
-*(Where $R_f$ is the risk-free rate, assumed to be 4% for this analysis.)*
+(Where $R_f$ is the risk-free rate, assumed to be 4% for this analysis.)
 
 ## ⚠️ Limitations & Assumptions
 While MPT provides a strong theoretical framework, this model makes several simplifying assumptions:
