@@ -1,6 +1,6 @@
 # Markowitz Efficient Frontier Simulation and Optimization
 
-![Efficient Frontier Visualization][visualizations](mef-visualization.png)
+![MEF Visualization](visualizations/mef-visualization.png)
 
 When it comes to the stock market, one of the most well-known sayings is "don't put all your eggs in one basket." In practice, this means diversifying (spreading your money) into multiple assets to minimize risk.
 
